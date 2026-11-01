@@ -1,0 +1,6 @@
+{
+  "name": "AZ Catering",
+  "description": "Premium event catering, royal biryanis, live food stations, and customized wedding & corporate feast packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
